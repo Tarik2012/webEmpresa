@@ -1,0 +1,23 @@
+# Ignorar entorno virtual
+env/
+
+# Otras exclusiones comunes
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.swp
+*~
+.DS_Store
+*.log
+*.pot
+*.coverage
+*.cache
+*.egg-info
+.eggs
+*.manifest
+*.spec
+
+# Archivos de configuración de VSCode
+.vscode/
