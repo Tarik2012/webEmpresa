@@ -40,8 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'core',
-    'blog',
     'pages.apps.PagesConfig',
+    'blog',
     'services',
     'social.apps.SocialConfig',
     

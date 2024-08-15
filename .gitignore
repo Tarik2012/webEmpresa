@@ -10,3 +10,5 @@ __pycache__/
 
 # Archivos de configuración de VSCode
 .vscode/
+# env\Scripts\activate
+
