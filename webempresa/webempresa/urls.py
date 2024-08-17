@@ -24,6 +24,8 @@ urlpatterns = [
     path('services/', include('services.urls')),  # Incluye las rutas de la nueva app
     path('blog/', include('blog.urls')),
     path('page/', include('pages.urls')),
+    path('contact/', include('contact.urls')),
+    path('ckeditor5/', include('django_ckeditor_5.urls')),
 ]
 
 if settings.DEBUG:
